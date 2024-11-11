@@ -13,6 +13,8 @@ import bcrypt
 import os
 import json
 
+
+#Шауаут, Кирилл!
 app = Flask(__name__)
 CORS(app)
 app.config["SESSION_PERMANENT"] = False

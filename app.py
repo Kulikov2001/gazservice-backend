@@ -12,6 +12,7 @@ from datetime import datetime
 import bcrypt
 import os
 import json
+#Шауаут, Кирилл!
 #Шатаут, Лёха!
 app = Flask(__name__)
 CORS(app)

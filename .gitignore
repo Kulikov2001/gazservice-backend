@@ -1,0 +1,6 @@
+*.pyc
+/flask_session
+/static/uploads/*.*
+/venv/
+/migrations/*
+*.pem
